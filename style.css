@@ -1,0 +1,285 @@
+*{
+    margin: 0px;
+}
+h4{
+    font-size: 0.7rem;
+    font-weight: 900;
+}
+h6{
+    font-size: 0.6rem;
+}
+
+.cc{
+    width: 100%;
+    height: 450px;
+}
+.dd{
+    width: 100%;
+    height: 60px;
+    padding-top: 9px;
+}
+.dd1{
+    width: 20%;
+    float: left;
+}
+.dd11{
+    float: left;
+    width: 15%;
+    padding: 15px 0px 0px 20px;
+
+}
+.dd111{
+    font-size: 24px;
+}
+.dd12{
+    float: left;
+    width: 85%;
+    margin: 0px;
+    padding: 3px 0px 0px 17px;
+}
+.dd2{
+    width: 60%;
+    float: left;
+    display: flex;
+    border-left-color: 1px tomato;
+    padding-left: 60px;
+}
+iframe{
+    border: none;
+}
+.dd21{
+    margin-top: 6px;
+    padding: 3px 0px 3px 15px;
+    border-radius: 3px;
+    width: 75%;
+    border: 1px solid rgb(204, 204, 204) ;
+    box-shadow: inset 0 1px 2px var(--ytd-searchbox-legacy-border-shadow-color);}
+.dd22{
+    border-radius: 0px 3px 3px 0px  ;
+    border: 1px solid rgb(194, 192, 192) ;
+    box-shadow: 1px 1px 0px 1px rgb(238, 239, 241);
+    margin: 6px 0px 0px 0px;
+    padding: 3px 15px;
+    border-left: none;
+}
+.dd221{
+    font-size: 15px;
+    margin: 0px;
+    padding: 0px;
+}
+.dd3{
+    width: 20%;
+    float: left;
+    margin:10px 0px 0px 0px;
+}
+.dd31{
+    width: 15%;
+    float: left;
+    color: rgb(192, 190, 190);
+    margin-left: 10px;
+}
+.dd32{
+    font-size: 22px;
+    color: rgb(68, 68, 68);
+}
+.dd33{
+    float: left;
+    border: 1px solid gray;
+    background-color: rgb(93, 19, 231);
+    padding: 2px 10px;
+    margin-left: 20px;
+    border-radius: 50%;
+    color: white;
+}
+.ee{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(246, 247, 248);
+}
+.slider.round {
+    border-radius: 30px;
+  }
+  
+  .slider.round:before {
+    border-radius: 50%;
+  }
+  .switch {
+    position: relative;
+    display: inline-block;
+    width: 40px;
+    height: 15px;
+  }
+  
+  .switch input { 
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+  }
+  
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 19px;
+    width: 16px;
+    left: 2px;
+    bottom: 2px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  input:checked + .slider {
+    background-color: #2196F3;
+  }
+  
+  input:focus + .slider {
+    box-shadow: 0 0 1px #2196F3;
+  }
+  
+  input:checked + .slider:before {
+    -webkit-transform: translateX(20px);
+  }
+.ff{
+    width: 70%;
+    height: 610px;
+    float: left;
+}
+.gg{
+    width: 30%;
+    height: 600px;
+    float: right;
+    padding: 10px 10px 0px 10px;
+}
+.gga{
+    float: left;
+    line-height: 1;
+}
+.gg2{
+    width: 100%;
+    clear: both;
+}
+.gg3{
+    clear: both;
+    height: 100px;
+}
+.gg4{
+    clear: both;
+}
+.gga1{
+    float: left;
+    margin-left: 180px;
+}
+.gga2{
+    float: right;
+}
+.gg31{
+    float: left;
+    width: 50%;
+}
+.gg32{
+    float: left;
+    width: 50%;
+}
+.gg321{
+    font-size: 11px;
+}
+.aaaq{
+    color: black;
+    font-size: 1px;
+}
+
+.hh{
+    width: 100%;
+    height: 500px;
+   padding: 30px 0px 0px 30px;
+}
+.ii{
+    width: 100%;
+    height: 100px;
+    padding-left: 30px;
+    padding-top: 15px;
+}
+.ii1{
+    float: left;
+    padding-top: 6px;
+}
+.ii2{
+    float: right;
+}
+.ii11{
+    padding-top: 10px;
+}
+.iia{
+    color: gray;
+    font-size: 20px;
+}
+.iia1{
+    font-size: 13px;
+    color: rgb(57, 146, 219);
+}
+.iia2{
+    line-height: 2px;
+    padding-top: 3px;
+    font-weight: 100px;
+    font-size: 18px;
+}
+.iia3{
+    font-size: 14px;
+    color: gray;
+}
+ul{
+    margin-right: 20px;
+}
+a{
+    text-decoration: none;
+    color: gray;
+}
+a:hover{
+    text-decoration: none;
+    color: gray;
+}
+li{
+    list-style: none;
+    display: inline;
+    margin-left: 20px;
+}
+.jj{
+    width: 100%;
+    border: 1px solid red;
+    height: 100px;
+}
+.k{
+    width: 100%;
+    border: 1px solid green;
+    height: 100vh;
+}
+.l{
+    width: 40%;
+    border: 1px solid green;
+    height: 100px;
+    float: left;
+}
+.m{
+    border: 1px solid green;
+    height: 100px;
+    width: 60%;
+    float: right;
+}
+.container{
+    width: 100%;
+    border: 1px solid red;
+    padding: 1 0px;
+}
+.lia{
+    color: gray;
+}
